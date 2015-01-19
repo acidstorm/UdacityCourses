@@ -1,2 +1,2 @@
 # UdacityCourses
-Code Repository for Udac
+Code Repository for Udacity courses
